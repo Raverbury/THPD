@@ -1,0 +1,6 @@
+
+sub Sub0()
+{
+    enmSpawnPrevent(0);
+    delete();
+}
